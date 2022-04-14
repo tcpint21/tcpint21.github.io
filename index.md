@@ -1,7 +1,7 @@
 # My Interests
 I'm interested making program
 
-#My Blog
+# My Blog
 I'm really excited to blog my journey on GitHub.com
 <ul>
   {%for post in site.posts%}
@@ -11,6 +11,6 @@ I'm really excited to blog my journey on GitHub.com
   {%endfor%}
 </ul>
 
-#Get in Touch
+# Get in Touch
 <ul>
 <li><a href="https://github.com/tcpint21">GitHub</a></li>
