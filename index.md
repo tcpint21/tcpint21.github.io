@@ -8,7 +8,7 @@ I'm really excited to blog my journey on GitHub.com
   <li>
     <a href="{{post.url}}">{{post.title}}</a>
   </li>
-  [%endfor%]
+  {%endfor%}
 </ul>
 
 #Get in Touch
